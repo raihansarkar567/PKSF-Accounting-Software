@@ -77,3 +77,7 @@ b) Annual Financial Statement**
 **Few Preview and Screenshot given below-**
 
 ![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/PKSF-Accounting-Software/main/Cashforcast.png)https://raw.githubusercontent.com/raihansarkar567/PKSF-Accounting-Software/main/Cashforcast.png "Cashforcast"))
+
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/PKSF-Accounting-Software/main/Cashforcast.png)https://raw.githubusercontent.com/raihansarkar567/PKSF-Accounting-Software/main/Source and uses.png.png "Source and uses"))
+
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/PKSF-Accounting-Software/main/Cashforcast.png)https://raw.githubusercontent.com/raihansarkar567/PKSF-Accounting-Software/main/DA Activitie.jpg "DA Activitie"))
