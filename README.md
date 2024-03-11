@@ -67,11 +67,11 @@ b) Annual Financial Statement**
 10. SOEs Withdrawal Application Statement
 
 **c) Budget Monitoring Tool**
-l. Budget Monitoring Tool (by category)
+1. Budget Monitoring Tool (by category)
 2. Budget Monitoring Tool (by component)
 
 **d) Project Expenditure Statement**
-l. Expenditure by Category
+1. Expenditure by Category
 2. Expenditure by Component
 
 **Few Preview and Screenshot given below-**
