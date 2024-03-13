@@ -77,3 +77,5 @@ b) Annual Financial Statement**
 **Few Preview and Screenshot given below-**
 
 ![Cash Forecast](https://raw.githubusercontent.com/raihansarkar567/PKSF-Accounting-Software/main/Cashforcast.png "Cashforcast")
+
+![Budget Variancet](https://github.com/raihansarkar567/PKSF-Accounting-Software/blob/main/Budget%20Variance.png?raw=true) "Budget Variance")
