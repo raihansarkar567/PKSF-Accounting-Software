@@ -15,12 +15,12 @@ Developer:
 
 **Objectives of the Project**
 
-• The key objective of the project is to develop a Accounting web application under
+1. The key objective of the project is to develop a Accounting web application under
 RMTP.
-• Automatically generate Withdrawal Application (WAS)
-• Other reports/statements in prescribed formats of the Project as per the
+2. Automatically generate Withdrawal Application (WAS)
+3. Other reports/statements in prescribed formats of the Project as per the
 requirement of FAD.
-• It can be modified quickly and easily when required without affecting the existing
+4. It can be modified quickly and easily when required without affecting the existing
 PKSF Core Accounting Software.
 
 **Scope of the project**
